@@ -1,7 +1,7 @@
 +++
 author = "Hugo Mimouni"
 date = 2020-11-28T23:00:00Z
-hero = "/images/screen-shot-2020-10-14-at-23-27-10.png"
+hero = "/images/lf_nightlife-3.jpg"
 title = "My first post "
 type = "blog"
 
@@ -10,6 +10,6 @@ type = "blog"
 
 Bon voilà j'écris pour voir.
 
-### Et hop une photo ! 
+### Et hop une photo !
 
-![](/images/screen-shot-2020-10-14-at-23-23-20.png)
+![](/images/lf_nightlife-2.jpg)
